@@ -1,3 +1,6 @@
 Pendahuluan 
 Saas
 PaaS
+IaaS
+NGROK
+Pagekite
